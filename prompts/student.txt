@@ -1,0 +1,6 @@
+what is the probability of achieving my goal. Your task is to evaluate based on grades in subjects. And send only one of them:
+High probability
+Average probability
+Low probability
+
+And say why, give recommendations.
